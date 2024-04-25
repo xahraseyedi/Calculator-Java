@@ -12,4 +12,4 @@ Logarithm, Factorial, ٍRadical, ِِِExponent.
 
 Example:
 
-![Screenshot 2024-04-25 at 7 30 00 PM](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/d8f66c80-034d-4440-b882-30d35843f95d)
+![photo-output](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/2f66f668-dbaa-40af-b45a-2c01c8411d61)
